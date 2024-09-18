@@ -1,0 +1,11 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ardasaritas/CTIS152/LG06/Q1'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x1000038F8, symSize: 0x20C }
+  - { offsetInCU: 0x9A, offset: 0x9A, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x1000038F8, symSize: 0x20C }
+  - { offsetInCU: 0x116, offset: 0x116, size: 0x8, addend: 0x0, symName: __Z4readP7__sFILEP7radio_ti, symObjAddr: 0x20C, symBinAddr: 0x100003B04, symSize: 0xC0 }
+  - { offsetInCU: 0x168, offset: 0x168, size: 0x8, addend: 0x0, symName: __Z7displayP7radio_ti, symObjAddr: 0x2CC, symBinAddr: 0x100003BC4, symSize: 0xC8 }
+  - { offsetInCU: 0x1BA, offset: 0x1BA, size: 0x8, addend: 0x0, symName: __Z11findMaxHitsP7radio_ti, symObjAddr: 0x394, symBinAddr: 0x100003C8C, symSize: 0x88 }
+  - { offsetInCU: 0x22C, offset: 0x22C, size: 0x8, addend: 0x0, symName: __Z9findRadioP7radio_tid, symObjAddr: 0x41C, symBinAddr: 0x100003D14, symSize: 0xAC }
+...

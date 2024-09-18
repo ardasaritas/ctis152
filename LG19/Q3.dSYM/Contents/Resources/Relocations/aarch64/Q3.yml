@@ -1,0 +1,17 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ardasaritas/CTIS152/LG19/Q3'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z7getnodev, symObjAddr: 0x0, symBinAddr: 0x1000035FC, symSize: 0x30 }
+  - { offsetInCU: 0xC9, offset: 0xC9, size: 0x8, addend: 0x0, symName: __Z7getnodev, symObjAddr: 0x0, symBinAddr: 0x1000035FC, symSize: 0x30 }
+  - { offsetInCU: 0xF5, offset: 0xF5, size: 0x8, addend: 0x0, symName: __Z8addAfterP6node_s6user_t, symObjAddr: 0x30, symBinAddr: 0x10000362C, symSize: 0x58 }
+  - { offsetInCU: 0x13A, offset: 0x13A, size: 0x8, addend: 0x0, symName: __Z12addBeginningP6node_s6user_t, symObjAddr: 0x88, symBinAddr: 0x100003684, symSize: 0x4C }
+  - { offsetInCU: 0x183, offset: 0x183, size: 0x8, addend: 0x0, symName: __Z15deleteBeginningP6node_s, symObjAddr: 0xD4, symBinAddr: 0x1000036D0, symSize: 0x3C }
+  - { offsetInCU: 0x1BD, offset: 0x1BD, size: 0x8, addend: 0x0, symName: __Z11deleteAfterP6node_s, symObjAddr: 0x110, symBinAddr: 0x10000370C, symSize: 0x40 }
+  - { offsetInCU: 0x1F3, offset: 0x1F3, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x150, symBinAddr: 0x10000374C, symSize: 0x1F8 }
+  - { offsetInCU: 0x26F, offset: 0x26F, size: 0x8, addend: 0x0, symName: __Z10createListP7__sFILEP6node_s, symObjAddr: 0x348, symBinAddr: 0x100003944, symSize: 0x144 }
+  - { offsetInCU: 0x2C9, offset: 0x2C9, size: 0x8, addend: 0x0, symName: __Z11displayListP6node_s, symObjAddr: 0x48C, symBinAddr: 0x100003A88, symSize: 0x80 }
+  - { offsetInCU: 0x2F1, offset: 0x2F1, size: 0x8, addend: 0x0, symName: __Z10searchUserP6node_sPc, symObjAddr: 0x50C, symBinAddr: 0x100003B08, symSize: 0xA4 }
+  - { offsetInCU: 0x32B, offset: 0x32B, size: 0x8, addend: 0x0, symName: __Z15displaySelectedP6node_sPc, symObjAddr: 0x5B0, symBinAddr: 0x100003BAC, symSize: 0xB0 }
+  - { offsetInCU: 0x361, offset: 0x361, size: 0x8, addend: 0x0, symName: __Z16deleteUserLoginsP6node_sPc, symObjAddr: 0x660, symBinAddr: 0x100003C5C, symSize: 0xC0 }
+...

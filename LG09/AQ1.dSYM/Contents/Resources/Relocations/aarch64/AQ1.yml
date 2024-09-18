@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ardasaritas/CTIS152/LG09/AQ1'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003A2C, symSize: 0xB8 }
+  - { offsetInCU: 0xB0, offset: 0xB0, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003A2C, symSize: 0xB8 }
+  - { offsetInCU: 0x110, offset: 0x110, size: 0x8, addend: 0x0, symName: __Z8readFileP7__sFILEP10customer_t, symObjAddr: 0xB8, symBinAddr: 0x100003AE4, symSize: 0xC0 }
+  - { offsetInCU: 0x166, offset: 0x166, size: 0x8, addend: 0x0, symName: __Z7displayP10customer_ti, symObjAddr: 0x178, symBinAddr: 0x100003BA4, symSize: 0x244 }
+  - { offsetInCU: 0x1F0, offset: 0x1F0, size: 0x8, addend: 0x0, symName: __Z6searchPcc, symObjAddr: 0x3BC, symBinAddr: 0x100003DE8, symSize: 0x98 }
+...

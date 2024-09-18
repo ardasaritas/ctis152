@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ardasaritas/CTIS152/LG05/Q4'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003638, symSize: 0x384 }
+  - { offsetInCU: 0x57, offset: 0x57, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003638, symSize: 0x384 }
+  - { offsetInCU: 0x10B, offset: 0x10B, size: 0x8, addend: 0x0, symName: __Z12readFromFileP7__sFILEPPii, symObjAddr: 0x3A0, symBinAddr: 0x1000039D8, symSize: 0x100 }
+  - { offsetInCU: 0x179, offset: 0x179, size: 0x8, addend: 0x0, symName: __Z7displayPPii, symObjAddr: 0x4A0, symBinAddr: 0x100003AD8, symSize: 0xF4 }
+  - { offsetInCU: 0x1E7, offset: 0x1E7, size: 0x8, addend: 0x0, symName: __Z14findColdestDayPPiiS_S_, symObjAddr: 0x594, symBinAddr: 0x100003BCC, symSize: 0xF0 }
+...

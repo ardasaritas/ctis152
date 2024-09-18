@@ -1,0 +1,11 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ardasaritas/CTIS152/LGR2/Q2'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x1000037E8, symSize: 0x27C }
+  - { offsetInCU: 0x93, offset: 0x93, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x1000037E8, symSize: 0x27C }
+  - { offsetInCU: 0x101, offset: 0x101, size: 0x8, addend: 0x0, symName: __Z10bubbleSortP5roboti, symObjAddr: 0x27C, symBinAddr: 0x100003A64, symSize: 0x104 }
+  - { offsetInCU: 0x161, offset: 0x161, size: 0x8, addend: 0x0, symName: __Z5printP5roboti, symObjAddr: 0x380, symBinAddr: 0x100003B68, symSize: 0xD4 }
+  - { offsetInCU: 0x1B3, offset: 0x1B3, size: 0x8, addend: 0x0, symName: __Z15recBinarySearchP5robotiiPc, symObjAddr: 0x454, symBinAddr: 0x100003C3C, symSize: 0x10C }
+  - { offsetInCU: 0x225, offset: 0x225, size: 0x8, addend: 0x0, symName: __Z4swapP5robotS0_, symObjAddr: 0x560, symBinAddr: 0x100003D48, symSize: 0x8C }
+...

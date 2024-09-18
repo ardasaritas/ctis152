@@ -1,0 +1,16 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ardasaritas/CTIS152/LG12/AQ1'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x10000354C, symSize: 0x228 }
+  - { offsetInCU: 0x98, offset: 0x98, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x10000354C, symSize: 0x228 }
+  - { offsetInCU: 0x122, offset: 0x122, size: 0x8, addend: 0x0, symName: __Z12readFromFileP7__sFILEP6user_t, symObjAddr: 0x228, symBinAddr: 0x100003774, symSize: 0xC8 }
+  - { offsetInCU: 0x16A, offset: 0x16A, size: 0x8, addend: 0x0, symName: __Z13recBubbleSortP6user_tiiii, symObjAddr: 0x2F0, symBinAddr: 0x10000383C, symSize: 0x118 }
+  - { offsetInCU: 0x1E6, offset: 0x1E6, size: 0x8, addend: 0x0, symName: __Z7displayP6user_ti, symObjAddr: 0x408, symBinAddr: 0x100003954, symSize: 0x118 }
+  - { offsetInCU: 0x238, offset: 0x238, size: 0x8, addend: 0x0, symName: __Z15binarySearchRecP6user_tiiPc, symObjAddr: 0x520, symBinAddr: 0x100003A6C, symSize: 0x10C }
+  - { offsetInCU: 0x2AA, offset: 0x2AA, size: 0x8, addend: 0x0, symName: __Z18convertSpaceToDashPc, symObjAddr: 0x62C, symBinAddr: 0x100003B78, symSize: 0x98 }
+  - { offsetInCU: 0x2FC, offset: 0x2FC, size: 0x8, addend: 0x0, symName: __Z7isblanki, symObjAddr: 0x6C4, symBinAddr: 0x100003C10, symSize: 0x28 }
+  - { offsetInCU: 0x328, offset: 0x328, size: 0x8, addend: 0x0, symName: __Z4swapP6user_tS0_, symObjAddr: 0x6EC, symBinAddr: 0x100003C38, symSize: 0x8C }
+  - { offsetInCU: 0x36C, offset: 0x36C, size: 0x8, addend: 0x0, symName: __Z8__istypeim, symObjAddr: 0x778, symBinAddr: 0x100003CC4, symSize: 0x8C }
+  - { offsetInCU: 0x3A6, offset: 0x3A6, size: 0x8, addend: 0x0, symName: __Z7isasciii, symObjAddr: 0x804, symBinAddr: 0x100003D50, symSize: 0x24 }
+...

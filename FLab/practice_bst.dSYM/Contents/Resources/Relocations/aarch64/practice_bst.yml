@@ -1,0 +1,21 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ardasaritas/CTIS152/FLab/practice_bst'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z13getBinaryNodei, symObjAddr: 0x0, symBinAddr: 0x100003608, symSize: 0x48 }
+  - { offsetInCU: 0x96, offset: 0x96, size: 0x8, addend: 0x0, symName: __Z13getBinaryNodei, symObjAddr: 0x0, symBinAddr: 0x100003608, symSize: 0x48 }
+  - { offsetInCU: 0xD0, offset: 0xD0, size: 0x8, addend: 0x0, symName: __Z6insertP6node_bi, symObjAddr: 0x48, symBinAddr: 0x100003650, symSize: 0x134 }
+  - { offsetInCU: 0x134, offset: 0x134, size: 0x8, addend: 0x0, symName: __Z9insertRecP6node_bi, symObjAddr: 0x17C, symBinAddr: 0x100003784, symSize: 0xCC }
+  - { offsetInCU: 0x16E, offset: 0x16E, size: 0x8, addend: 0x0, symName: __Z6searchP6node_bi, symObjAddr: 0x248, symBinAddr: 0x100003850, symSize: 0xE0 }
+  - { offsetInCU: 0x1B6, offset: 0x1B6, size: 0x8, addend: 0x0, symName: __Z12minValueNodeP6node_b, symObjAddr: 0x328, symBinAddr: 0x100003930, symSize: 0x48 }
+  - { offsetInCU: 0x1F0, offset: 0x1F0, size: 0x8, addend: 0x0, symName: __Z12maxValueNodeP6node_b, symObjAddr: 0x370, symBinAddr: 0x100003978, symSize: 0x48 }
+  - { offsetInCU: 0x22A, offset: 0x22A, size: 0x8, addend: 0x0, symName: __Z10deleteNodeP6node_bi, symObjAddr: 0x3B8, symBinAddr: 0x1000039C0, symSize: 0x17C }
+  - { offsetInCU: 0x272, offset: 0x272, size: 0x8, addend: 0x0, symName: __Z17preOrderTraversalP6node_b, symObjAddr: 0x534, symBinAddr: 0x100003B3C, symSize: 0x6C }
+  - { offsetInCU: 0x29A, offset: 0x29A, size: 0x8, addend: 0x0, symName: __Z16inOrderTraversalP6node_b, symObjAddr: 0x5A0, symBinAddr: 0x100003BA8, symSize: 0x6C }
+  - { offsetInCU: 0x2C2, offset: 0x2C2, size: 0x8, addend: 0x0, symName: __Z18postOrderTraversalP6node_b, symObjAddr: 0x60C, symBinAddr: 0x100003C14, symSize: 0x6C }
+  - { offsetInCU: 0x2EA, offset: 0x2EA, size: 0x8, addend: 0x0, symName: __Z10totalNodesP6node_b, symObjAddr: 0x678, symBinAddr: 0x100003C80, symSize: 0x74 }
+  - { offsetInCU: 0x332, offset: 0x332, size: 0x8, addend: 0x0, symName: __Z18countNodesPreOrderP6node_b, symObjAddr: 0x6EC, symBinAddr: 0x100003CF4, symSize: 0x6C }
+  - { offsetInCU: 0x35E, offset: 0x35E, size: 0x8, addend: 0x0, symName: __Z17countNodesInOrderP6node_b, symObjAddr: 0x758, symBinAddr: 0x100003D60, symSize: 0x6C }
+  - { offsetInCU: 0x38A, offset: 0x38A, size: 0x8, addend: 0x0, symName: __Z19countNodesPostOrderP6node_b, symObjAddr: 0x7C4, symBinAddr: 0x100003DCC, symSize: 0x70 }
+  - { offsetInCU: 0x3B6, offset: 0x3B6, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x834, symBinAddr: 0x100003E3C, symSize: 0x120 }
+...

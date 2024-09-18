@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ardasaritas/CTIS152/LG05/Q3'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003A58, symSize: 0xAC }
+  - { offsetInCU: 0xB5, offset: 0xB5, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003A58, symSize: 0xAC }
+  - { offsetInCU: 0x115, offset: 0x115, size: 0x8, addend: 0x0, symName: __Z12readFromFileP7__sFILEP10teamInfo_ti, symObjAddr: 0xAC, symBinAddr: 0x100003B04, symSize: 0xF0 }
+  - { offsetInCU: 0x16B, offset: 0x16B, size: 0x8, addend: 0x0, symName: __Z10displayAllP10teamInfo_ti, symObjAddr: 0x19C, symBinAddr: 0x100003BF4, symSize: 0x1E8 }
+  - { offsetInCU: 0x1CB, offset: 0x1CB, size: 0x8, addend: 0x0, symName: __Z10findWinnerP10teamInfo_ti, symObjAddr: 0x384, symBinAddr: 0x100003DDC, symSize: 0xAC }
+...

@@ -1,0 +1,13 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ardasaritas/CTIS152/LG18/Q2'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z7getNodev, symObjAddr: 0x0, symBinAddr: 0x100003AC8, symSize: 0x30 }
+  - { offsetInCU: 0x8F, offset: 0x8F, size: 0x8, addend: 0x0, symName: __Z7getNodev, symObjAddr: 0x0, symBinAddr: 0x100003AC8, symSize: 0x30 }
+  - { offsetInCU: 0xBB, offset: 0xBB, size: 0x8, addend: 0x0, symName: __Z8addAfterP6node_sPc, symObjAddr: 0x30, symBinAddr: 0x100003AF8, symSize: 0x50 }
+  - { offsetInCU: 0xFF, offset: 0xFF, size: 0x8, addend: 0x0, symName: __Z12addBeginningP6node_sPc, symObjAddr: 0x80, symBinAddr: 0x100003B48, symSize: 0x44 }
+  - { offsetInCU: 0x147, offset: 0x147, size: 0x8, addend: 0x0, symName: __Z10createListP6node_sPA15_ci, symObjAddr: 0xC4, symBinAddr: 0x100003B8C, symSize: 0xA0 }
+  - { offsetInCU: 0x1B9, offset: 0x1B9, size: 0x8, addend: 0x0, symName: __Z11displayListP6node_s, symObjAddr: 0x164, symBinAddr: 0x100003C2C, symSize: 0x80 }
+  - { offsetInCU: 0x1E1, offset: 0x1E1, size: 0x8, addend: 0x0, symName: __Z11findLongestP6node_s, symObjAddr: 0x1E4, symBinAddr: 0x100003CAC, symSize: 0xB0 }
+  - { offsetInCU: 0x237, offset: 0x237, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x294, symBinAddr: 0x100003D5C, symSize: 0x174 }
+...

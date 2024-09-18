@@ -1,0 +1,12 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ardasaritas/CTIS152/LG04/AQ1'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003430, symSize: 0x3FC }
+  - { offsetInCU: 0x57, offset: 0x57, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003430, symSize: 0x3FC }
+  - { offsetInCU: 0x127, offset: 0x127, size: 0x8, addend: 0x0, symName: __Z12readFromFileP7__sFILEPPii, symObjAddr: 0x410, symBinAddr: 0x100003840, symSize: 0xFC }
+  - { offsetInCU: 0x187, offset: 0x187, size: 0x8, addend: 0x0, symName: __Z16displaySalesInfoPPii, symObjAddr: 0x50C, symBinAddr: 0x10000393C, symSize: 0x10C }
+  - { offsetInCU: 0x1F5, offset: 0x1F5, size: 0x8, addend: 0x0, symName: __Z7findAvgPPii, symObjAddr: 0x618, symBinAddr: 0x100003A48, symSize: 0xC4 }
+  - { offsetInCU: 0x275, offset: 0x275, size: 0x8, addend: 0x0, symName: __Z15findSalesmanAvgPi, symObjAddr: 0x6DC, symBinAddr: 0x100003B0C, symSize: 0x78 }
+  - { offsetInCU: 0x2CB, offset: 0x2CB, size: 0x8, addend: 0x0, symName: __Z11findMaxSalePPiiS_, symObjAddr: 0x754, symBinAddr: 0x100003B84, symSize: 0x10C }
+...

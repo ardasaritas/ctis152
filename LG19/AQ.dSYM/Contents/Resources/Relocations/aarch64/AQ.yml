@@ -1,0 +1,20 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ardasaritas/CTIS152/LG19/AQ'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z7getnodev, symObjAddr: 0x0, symBinAddr: 0x1000030D4, symSize: 0x30 }
+  - { offsetInCU: 0xDC, offset: 0xDC, size: 0x8, addend: 0x0, symName: __Z7getnodev, symObjAddr: 0x0, symBinAddr: 0x1000030D4, symSize: 0x30 }
+  - { offsetInCU: 0x108, offset: 0x108, size: 0x8, addend: 0x0, symName: __Z8addAfterP6node_s13vegAndFruit_t, symObjAddr: 0x30, symBinAddr: 0x100003104, symSize: 0x60 }
+  - { offsetInCU: 0x14D, offset: 0x14D, size: 0x8, addend: 0x0, symName: __Z12addBeginningP6node_s13vegAndFruit_t, symObjAddr: 0x90, symBinAddr: 0x100003164, symSize: 0x54 }
+  - { offsetInCU: 0x196, offset: 0x196, size: 0x8, addend: 0x0, symName: __Z15deleteBeginningP6node_s, symObjAddr: 0xE4, symBinAddr: 0x1000031B8, symSize: 0x3C }
+  - { offsetInCU: 0x1D0, offset: 0x1D0, size: 0x8, addend: 0x0, symName: __Z11deleteAfterP6node_s, symObjAddr: 0x120, symBinAddr: 0x1000031F4, symSize: 0x40 }
+  - { offsetInCU: 0x206, offset: 0x206, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x160, symBinAddr: 0x100003234, symSize: 0x284 }
+  - { offsetInCU: 0x277, offset: 0x277, size: 0x8, addend: 0x0, symName: __Z10createListP7__sFILEP6node_s, symObjAddr: 0x3E4, symBinAddr: 0x1000034B8, symSize: 0x120 }
+  - { offsetInCU: 0x2CD, offset: 0x2CD, size: 0x8, addend: 0x0, symName: __Z11displayListP6node_s, symObjAddr: 0x504, symBinAddr: 0x1000035D8, symSize: 0x94 }
+  - { offsetInCU: 0x2F5, offset: 0x2F5, size: 0x8, addend: 0x0, symName: __Z4menuPi, symObjAddr: 0x598, symBinAddr: 0x10000366C, symSize: 0xF8 }
+  - { offsetInCU: 0x31D, offset: 0x31D, size: 0x8, addend: 0x0, symName: __Z8searchIDP6node_si, symObjAddr: 0x690, symBinAddr: 0x100003764, symSize: 0x70 }
+  - { offsetInCU: 0x357, offset: 0x357, size: 0x8, addend: 0x0, symName: __Z8addToEndP6node_s13vegAndFruit_t, symObjAddr: 0x700, symBinAddr: 0x1000037D4, symSize: 0xA4 }
+  - { offsetInCU: 0x38E, offset: 0x38E, size: 0x8, addend: 0x0, symName: __Z10updateListP6node_s, symObjAddr: 0x7A4, symBinAddr: 0x100003878, symSize: 0x298 }
+  - { offsetInCU: 0x3F2, offset: 0x3F2, size: 0x8, addend: 0x0, symName: __Z9writeListP6node_sPc, symObjAddr: 0xA3C, symBinAddr: 0x100003B10, symSize: 0x170 }
+  - { offsetInCU: 0x47C, offset: 0x47C, size: 0x8, addend: 0x0, symName: __Z8freeListP6node_s, symObjAddr: 0xBAC, symBinAddr: 0x100003C80, symSize: 0x44 }
+...

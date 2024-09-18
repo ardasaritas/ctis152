@@ -1,0 +1,11 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ardasaritas/CTIS152/LG05/AQ'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x1000038F0, symSize: 0xDC }
+  - { offsetInCU: 0x46, offset: 0x46, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x1000038F0, symSize: 0xDC }
+  - { offsetInCU: 0x98, offset: 0x98, size: 0x8, addend: 0x0, symName: __Z8readFileP7__sFILEP16applicantsOfII_tPi, symObjAddr: 0xDC, symBinAddr: 0x1000039CC, symSize: 0xD8 }
+  - { offsetInCU: 0xDC, offset: 0xDC, size: 0x8, addend: 0x0, symName: __Z9calculateP16applicantsOfII_ti, symObjAddr: 0x1B4, symBinAddr: 0x100003AA4, symSize: 0x114 }
+  - { offsetInCU: 0x158, offset: 0x158, size: 0x8, addend: 0x0, symName: __Z7displayP16applicantsOfII_ti, symObjAddr: 0x2C8, symBinAddr: 0x100003BB8, symSize: 0x110 }
+  - { offsetInCU: 0x1AA, offset: 0x1AA, size: 0x8, addend: 0x0, symName: __Z12findPassFailP16applicantsOfII_ti, symObjAddr: 0x3D8, symBinAddr: 0x100003CC8, symSize: 0x174 }
+...

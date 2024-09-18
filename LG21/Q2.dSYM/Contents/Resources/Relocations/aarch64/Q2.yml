@@ -1,0 +1,19 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ardasaritas/CTIS152/LG21/Q2'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z7getnodev, symObjAddr: 0x0, symBinAddr: 0x1000034F4, symSize: 0x30 }
+  - { offsetInCU: 0xBA, offset: 0xBA, size: 0x8, addend: 0x0, symName: __Z7getnodev, symObjAddr: 0x0, symBinAddr: 0x1000034F4, symSize: 0x30 }
+  - { offsetInCU: 0xE6, offset: 0xE6, size: 0x8, addend: 0x0, symName: __Z8addAfterP6node_s8supply_t, symObjAddr: 0x30, symBinAddr: 0x100003524, symSize: 0x54 }
+  - { offsetInCU: 0x12A, offset: 0x12A, size: 0x8, addend: 0x0, symName: __Z12addBeginningP6node_s8supply_t, symObjAddr: 0x84, symBinAddr: 0x100003578, symSize: 0x48 }
+  - { offsetInCU: 0x172, offset: 0x172, size: 0x8, addend: 0x0, symName: __Z15deleteBeginningP6node_s, symObjAddr: 0xCC, symBinAddr: 0x1000035C0, symSize: 0x3C }
+  - { offsetInCU: 0x1AC, offset: 0x1AC, size: 0x8, addend: 0x0, symName: __Z11deleteAfterP6node_s, symObjAddr: 0x108, symBinAddr: 0x1000035FC, symSize: 0x44 }
+  - { offsetInCU: 0x1E6, offset: 0x1E6, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x14C, symBinAddr: 0x100003640, symSize: 0x150 }
+  - { offsetInCU: 0x22C, offset: 0x22C, size: 0x8, addend: 0x0, symName: __Z9initArrayPP6node_s, symObjAddr: 0x29C, symBinAddr: 0x100003790, symSize: 0x50 }
+  - { offsetInCU: 0x270, offset: 0x270, size: 0x8, addend: 0x0, symName: __Z4menuPi, symObjAddr: 0x2EC, symBinAddr: 0x1000037E0, symSize: 0xE0 }
+  - { offsetInCU: 0x298, offset: 0x298, size: 0x8, addend: 0x0, symName: __Z12insertSupplyPP6node_s8supply_t, symObjAddr: 0x3CC, symBinAddr: 0x1000038C0, symSize: 0x168 }
+  - { offsetInCU: 0x306, offset: 0x306, size: 0x8, addend: 0x0, symName: __Z12removeSupplyPP6node_si, symObjAddr: 0x534, symBinAddr: 0x100003A28, symSize: 0x16C }
+  - { offsetInCU: 0x382, offset: 0x382, size: 0x8, addend: 0x0, symName: __Z14displayHashmapPP6node_s, symObjAddr: 0x6A0, symBinAddr: 0x100003B94, symSize: 0x118 }
+  - { offsetInCU: 0x3E2, offset: 0x3E2, size: 0x8, addend: 0x0, symName: __Z8hashCodei, symObjAddr: 0x7B8, symBinAddr: 0x100003CAC, symSize: 0x24 }
+  - { offsetInCU: 0x40E, offset: 0x40E, size: 0x8, addend: 0x0, symName: __Z14searchSupplyIDP6node_si, symObjAddr: 0x7DC, symBinAddr: 0x100003CD0, symSize: 0x70 }
+...

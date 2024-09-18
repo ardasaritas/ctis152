@@ -1,0 +1,15 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ardasaritas/CTIS152/LG11/AQ1'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x1000035B4, symSize: 0x278 }
+  - { offsetInCU: 0x46, offset: 0x46, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x1000035B4, symSize: 0x278 }
+  - { offsetInCU: 0xE1, offset: 0xE1, size: 0x8, addend: 0x0, symName: __Z12readFromFileP7__sFILEPA50_c, symObjAddr: 0x278, symBinAddr: 0x10000382C, symSize: 0xA0 }
+  - { offsetInCU: 0x129, offset: 0x129, size: 0x8, addend: 0x0, symName: __Z10bubbleSortPA50_ci, symObjAddr: 0x318, symBinAddr: 0x1000038CC, symSize: 0x104 }
+  - { offsetInCU: 0x189, offset: 0x189, size: 0x8, addend: 0x0, symName: __Z7displayPA50_ci, symObjAddr: 0x41C, symBinAddr: 0x1000039D0, symSize: 0xB0 }
+  - { offsetInCU: 0x1DB, offset: 0x1DB, size: 0x8, addend: 0x0, symName: __Z4menuPA50_cPii, symObjAddr: 0x4CC, symBinAddr: 0x100003A80, symSize: 0xF4 }
+  - { offsetInCU: 0x21F, offset: 0x21F, size: 0x8, addend: 0x0, symName: __Z9addToListPA50_cPci, symObjAddr: 0x5C0, symBinAddr: 0x100003B74, symSize: 0x54 }
+  - { offsetInCU: 0x271, offset: 0x271, size: 0x8, addend: 0x0, symName: __Z4swapPcS_, symObjAddr: 0x614, symBinAddr: 0x100003BC8, symSize: 0x7C }
+  - { offsetInCU: 0x2B5, offset: 0x2B5, size: 0x8, addend: 0x0, symName: __Z12binarySearchPA50_ciiPc, symObjAddr: 0x690, symBinAddr: 0x100003C44, symSize: 0xF8 }
+  - { offsetInCU: 0x319, offset: 0x319, size: 0x8, addend: 0x0, symName: __Z9shiftDownPA50_cPci, symObjAddr: 0x788, symBinAddr: 0x100003D3C, symSize: 0x9C }
+...
