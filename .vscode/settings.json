@@ -1,0 +1,8 @@
+{
+  "C_Cpp.errorSquiggles": "enabled",
+  "files.associations": {
+    "typeinfo": "cpp",
+    "__mutex_base": "cpp",
+    "variant": "cpp"
+  }
+}
